@@ -21,13 +21,13 @@ function  calculateCost(hotelPrice,duration,ticketPrice,budget){
 
 
 
-function greet(language){
+function greetings(language){
      return function(name){
         return name + ' ' + language;
      }
 
 }
 
-console.log(greet("Bengali")("Imran"));
+console.log(greetings("Bengali")("Imran"));
 
 
