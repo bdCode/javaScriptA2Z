@@ -18,4 +18,4 @@ console.log(`Module 5: ${mark5}`);
 /*task 2:create 5 variables : pass1....pass5 where you
 will store either 1 or 0 depending on whether you passed
 a module or not.For example,if you passed a module 1,passed 
-should be 1,otherwise it would be 0.
+should be 1,otherwise it would be 0.*/
