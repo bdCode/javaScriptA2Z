@@ -37,8 +37,6 @@ let box5 = {
     platinum: 5
 
 };
-
-
  
 //priceKg object
 let priceKg = {
