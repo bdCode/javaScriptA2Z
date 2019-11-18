@@ -69,7 +69,6 @@ let calcTotal = function(f, boxes){
     return `Take home: $ ${result}`;
 };
 
-
 /*task 4-For some mysterious reason,you can not take box4 and
 box5 together or box2 and box3 together.play with calcTotal 
 in the console and find the best combination of boxes to take home*/
