@@ -50,3 +50,21 @@ number: ${currentGeneration}`);
 
 
 console.log(parent(16));
+
+
+
+
+
+let a = 2;
+
+
+function ian(a){
+
+    let a = 5;
+    return a + 2;
+
+    
+
+};
+console.log(ian(8));
+
